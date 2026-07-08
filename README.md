@@ -2,7 +2,7 @@
 * I am an MSc Computer Science graduate by University of Tartu, Estonia, with a background in BSc Computer Systems Engineering.
 
 * My interest in IT is regarding cybersecurity, but also front-end. I have done 2 summer internships, one in Spain and another in Estonia.
-* 
+  
 * Out of uni, I am the webmaster of [ESN Santander](https://esnsantander.org/), a volunteer organisation. In my free time, I enjoy good music and coffee, football and reading. 
 
 
